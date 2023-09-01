@@ -1,3 +1,5 @@
 This is another file.
 
-With more text content.
+With more beautiful content.
+
+Another new line.
