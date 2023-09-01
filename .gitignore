@@ -1,0 +1,5 @@
+# Ignore the secrets file. It contains passwords.
+secrets.txt
+
+# Don't allow bitmap files in our repo. 
+*.bmp
